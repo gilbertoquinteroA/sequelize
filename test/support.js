@@ -1,6 +1,6 @@
 'use strict';
 
-const fs = require('fs'),
+const FS = require('fs'),
   path = require('path'),
   _ = require('lodash'),
   Sequelize = require(__dirname + '/../index'),
